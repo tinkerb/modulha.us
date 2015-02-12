@@ -2,13 +2,10 @@
 
 Modulhaus agents are creative, independent, open source hackers.  They practice a style that has to-date spawned thousands of open source modules and applications, business, services, and games.  Our agents can spin up hosted applications that do anything the imagination can offer.   Imagine what they can imagine, who for years steadfastingly forged this complex of web technologies.  Tith thoughts on the future, we turn to some essential technologies currently in use and on the rise.
 
-### Feed Open Source
-### Distributed Twitter
-### Audio Shiz
-### LeBroN
-### 3D
-### Cipherhub
 ### Browserify
+### scuttlebot
+### games
+### etc etc!
 
 Some other facts are layed out.  Software is a medium.  It is one of the multi-media, and it is the meta-media medium.  Little need be said.  There is so much can be done.
 
