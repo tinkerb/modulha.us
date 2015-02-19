@@ -42,7 +42,7 @@ Open source development is as much a library science as it is programming.  We r
 
 Modulhaus represents a network of independent, collaborative code writers.  Collectively, our diversity covers the entire domain of web development, from content to crypto (and back).  Distributed, we are a 24 hour, scalable laborforce.
 
-Our [frontmodules](#who) serve tripply as system architects, developers, and as a nexus to this ecosystem.  If you are one of us, and want to know more, contact James or Johnny directly via IRC or other channels. 
+[James and Johnny](#who) serve tripply as system architects, developers, and as a nexus to this ecosystem.  If you are one of us, and want to know more, contact James or Johnny directly via IRC or other channels. 
 
 If you are only ineterested in getting applications built in such a sweet style, send us [work proposal](#input).
 
