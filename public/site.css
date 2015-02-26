@@ -1,0 +1,67 @@
+@import url(http://fonts.googleapis.com/css?family=Orbitron:900|VT323);
+
+body{
+  width: 100%;
+  background-image:  radial-gradient(50% 50%, rgba(248,249,243,1), rgba(93,93,93,0.47))
+}
+
+#james-halliday{
+  text-align:left;
+  margin-left: 0px;
+}
+
+#johnny-honestly{
+  text-align: right;
+  margin-right: 0;
+}
+
+#markup{
+  width:960px;
+  margin: 0 auto;
+}
+p img{
+  width: 267px;
+  float:right;
+  margin-left: 21px;
+  margin-bottom: 11px;
+  transform: rotateY(180deg)
+}
+p img[alt="hackety hack hack hack"]{
+  float: left;
+  margin-right: 21px;
+  margin-bottom: 11px;
+  margin-left:0;
+}
+p, a{
+  font-family: 'VT323';
+  font-size: 32px;
+  color: #333
+}
+h1, h2, h3, h4, h5{
+  font-family: 'Orbitron'; 
+  text-align: center;
+  margin: 56px 0;
+}
+h1{
+  transform: perspective(333px) rotateX(31deg);
+  font-size: 111px;
+  text-shadow: 0 15px 15px rgba(250, 216, 126, 1), 
+  0 -5px 15px rgba(250, 216, 126, 1),
+  -7px 0 15px rgba(250, 216, 126, 1),
+  7px 0 15px rgba(250, 216, 126, 1);
+}
+h2{
+  font-size: 55px;
+  padding-top: 56px;
+  text-align: left;
+}
+h3{
+  font-size: 25px;
+}
+h4{}
+a, a:visited{
+  text-shadow: 0 0 3px rgba(250, 216, 126, 1) 
+}
+img{
+  border: 3px solid rgba(250, 216, 126, 1);
+}

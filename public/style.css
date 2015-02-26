@@ -46,6 +46,7 @@ textarea {
 
 }
 form{
+  
 }
 
 input{
@@ -75,6 +76,14 @@ input[type=file]{
 button {
   font-size: 24px;
   margin: 1.25% 0:q;
+}
+
+.w50{
+  width: 50%;
+}
+
+.center{
+  margin: 0 auto;
 }
 
 .w350{

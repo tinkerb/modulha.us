@@ -1,50 +1,61 @@
 # Modulhaus
 
-## Modular, Open Source, Full Stack Web Development.  
+### Open Source + Full Stack Web Development
 
-If you know what we offer, simply [input your application requirements](#input), and we will respond appropriately.
+If you know what we offer, [input your application requirements](#input), and we will respond appropriately.  To learn more about us, read on, or skip ahead to the [what?](#what-), [who?](/#who-), [why?](/#why-) or [how?](/#how-) section.
 
-If you want to know more, follow these links:
+##  What?
 
-* [Who?](#who)
-* [What?](#what)
-* [How?](#how)
+Modulhaus offers affordable web development for any project.  Our specialties are in interactive web experiences, networks, tools, and interfaces, but we are known for hacking hardware, bots, drones, and creative multimedia experiences.  
 
-## Who
+We use a vast library of open soure code to liberate the design of applications from stiff frameworks, unnecessary management, and expensive, proprietary molds.  Our modular development style is the ultimate in efficiency.  The benefit is yours.
 
-Modulhaus was concieved by [@substack](https://twitter.com/substack) and [@johnnyscript](https://twitter.com/johnnyscript) as a means for independent, open source hackers to support their practice, and an end to the hassles of software development, recruitment, and other resource wasting nonsense.  They believe the benefit will be mutual for coders and clients.
+We offer development on any level, from the full stack down to the individual module.  No application is too small, nor too large.
+
+
+## Who?
+
+Friends, former housemates and current HAUSmates, James and Johnny are a left and right brain that met in the middle.  Creative, technical, and inspired, they advance art and mad science from opposite approaches.  Modulhaus is a product of their plotting.
 
 ### James Halliday
 
 ![hackety hack hack hack](substack.jpg)
 
-James is well known as a prolific author of open source applications, and as an international ambassador for all programs modular, open source, and javascript.  He is an inspiration to his peers and proteges.  
+James is well known as a prolific author of open source applications, and international ambassador for all programs modular, open source, and javascript.  He is an inspiration to his peers and proteges.  
 
-James is a master of distributed, full stack system architecture.  With hundreds of modules and repositories, his efforts in open source module writing and collaboration are nothing short of herculean.  
+James is a true adherent to the Unix Philosophy, and a master of full stack development.  With hundreds of modules and repositories, his efforts in open source module writing and collaboration set the standard.  His modules and open source projects are used by hundreds of companies large and small, and are downloaded millions of times every week. 
 
 ###  Johnny Honestly
 
 ![!longer an accurate depiction but so what](johnnyscript.jpg)
 
-Johnny Honestly knows a master style when he practices one.  He has been an completely open source hacker since age 27, when he jumped into programming and web development without the least clue what he was doing, nor how it would change the course of his life.  He has spent most of the 7 years reading code and closely following the cutting edge of web development. 
+Johnny Honestly broke into programming through the window.  The browser window. Literally learned CSS first, if that counts.  Always late to the party, he didn't begin programming until he was 27, living alone in a hovel in Chicago's southside, where he wrote plays and poems, and waited out eviction.  An artist with a deep love for truth, science, and exploration, he could not help but becoming deeply enmeshed in data, networks, interfaces, and all else. 
 
-Back then, he sensed the magic.  Today, his wizard kung foo is on point. 
+Johnny has been 100% open source since the beginning.  He was an early and quick adopter of Node.js and the Unix Philosophy of modular software design.  He knows a master style when he observes and practices one.  
 
-##  What
+In the beginning, he sensed the magic.  Today, his wizardry is on point.
 
-Modulhaus offers affordable web development for any project.  We use a vast library of open soure code to liberate the design of applications from stiff frameworks, unnecessary management, and expensive, proprietary molds.  Our modular development style is the ultimate in efficiency.  The benfit is yours.
+## Why?
 
-We offer development on any level, from the full stack down to the individual module.  No application is too small, nor too large.  We eat complexity.  We specialize in interactive web experiences, networks, tools, and interfaces.
+Modulhaus was concieved by [@substack](https://twitter.com/substack) and [@johnnyscript](https://twitter.com/johnnyscript) as a means for independent, open source hackers to support their practice.  And to what end?  The end of contracting, recruitment, HR, and other annoying and wasteful practices!  
 
-## How
+We believe the benefit will be mutual for coders and clients.
 
-Open source development is as much a library science as it is programming.  We read and research endlessly.  We continually contribute code back to the stacks.  We are not alone.
+## How?
 
-Modulhaus represents a network of independent, collaborative code writers.  Collectively, our diversity covers the entire domain of web development, from content to crypto (and back).  Distributed, we are a 24 hour, scalable laborforce.
+Open source software development offers a bounty of benefits.  Code reuse saves time, ergo money, and makes programmers happy.  A world of developers continually fix and improve shared code.  For any given application, the majority of its functionality has already been written for you.  It is on top of this massive, freely available resource that new, innovative applications can be built.
 
-[James and Johnny](#who) serve tripply as system architects, developers, and as a nexus to this ecosystem.  If you are one of us, and want to know more, contact James or Johnny directly via IRC or other channels. 
+Open source development is as much a library science as it is programming.  We have replaced tiring repetition and menial problem solving tasks, with continuing education and personal growth.  This makes programmers happy.  And the increasing difficulty and expense of maintaining a stable of programmers, each with niche qualifications, has been replaced by a distributed, endlessly scalable laborforce.  Now at your fingertips.
 
-If you are only ineterested in getting applications built in such a sweet style, send us [work proposal](#input).
+We are your entry into this paradigm.  All you need to know is what you want from an application.  No longer does your company, organization or project need to painstakingly hire and keep developers, which requires a specialized knowledge to manage. 
+
+Modulhaus represents a network of independent, collaborative code writers.  We read and research endlessly.  We contribute code back to the stacks.  Collectively, our diversity covers the entire domain of web development.
+
+[James and Johnny](#who-) are system architects, developers, and a nexus to this ecosystem.  It is their intention to Modulhaus into a decentralized system for sourcing and fulfilling contract development.  To that end, we are developing tools to manage this new workflow. 
+
+If you are an OSS developer in the modular style, and want to know more, contact James or Johnny directly via IRC or other channels.  
+
+If you are only interested in getting applications built, send us a [work proposal](#input) today!
 
 
 ## Input
@@ -52,7 +63,7 @@ If you are only ineterested in getting applications built in such a sweet style,
 Please do not forget to include some from of contact, and double check your spelling.  Note that there is a 220 character limit.  You should be able to describe what you need in that space.  
 
 <form id="form" action="/contact" method="POST">
-  <textarea id="contactForm" rows="11" cols="80" placeholder="send help!"></textarea>
+  <textarea id="contactForm" rows="11" cols="80" name="contact" placeholder="send help!"></textarea>
   <button id="contactButton">submit!</button>
   <p><span id="chars">0</span> of 220 characters used</p>
 </form>
