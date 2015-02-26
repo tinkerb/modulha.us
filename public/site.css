@@ -5,6 +5,12 @@ body{
   background-image:  radial-gradient(50% 50%, rgba(248,249,243,1), rgba(93,93,93,0.47))
 }
 
+textarea{
+  font-size: 200%
+}
+#contactButton{
+  font-size: 200%
+}
 #james-halliday{
   text-align:left;
   margin-left: 0px;
@@ -16,6 +22,7 @@ body{
 }
 
 #markup{
+  padding:7px;
   width:960px;
   margin: 0 auto;
 }
