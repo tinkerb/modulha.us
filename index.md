@@ -8,7 +8,7 @@ If you know what what you want, [input your application requirements](#input), a
 
 ##  What?
 
-Modulhaus offers affordable web development for any project.  Our specialties are in interactive websites, networks, tools, and interfaces, but we are known to hack anything from hardware to creative multimedia experiences.  
+Modulhaus offers affordable web development for any project.  Our specialties are interactive websites, networks, tools, and interfaces, but we are known to hack anything from hardware to creative multimedia experiences.  
 
 We use a vast library of modular, open soure code to liberate the design of applications from stiff frameworks, unnecessary management, and expensive, proprietary molds.  Our modular development style is the ultimate in efficiency.  The benefit is yours.
 
