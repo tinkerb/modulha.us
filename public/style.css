@@ -13,7 +13,9 @@ body, body > *{
 	margin:1.25% 2.5%;
 	padding:0;
 }
-
+script{
+  display:none;
+}
 body{
   margin: 0 auto;
   width:1200px;
