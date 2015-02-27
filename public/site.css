@@ -2,6 +2,7 @@
 
 body{
   width: 100%;
+  background-image:  -webkit-radial-gradient(50% 50%, rgba(248,249,243,1), rgba(123,123,123,0.77));
   background-image:  radial-gradient(50% 50%, rgba(248,249,243,1), rgba(123,123,123,0.77))
 }
 
@@ -31,14 +32,16 @@ p img{
   float:right;
   margin-left: 21px;
   margin-bottom: 11px;
-  transform: rotateY(180deg)
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg)
 }
 p img[alt="iojs"]{
   border: none;
   float: none;
   display: block;
   clear: both;
-  transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+          transform: rotateY(0deg);
   margin: 0 auto;
   width: 50%;
   
@@ -46,18 +49,19 @@ p img[alt="iojs"]{
 p img[alt="binary"]{
   border: none;
   float:right;
-  transform: rotateY(0);
+  -webkit-transform: rotateY(0);
+          transform: rotateY(0);
   width: 200px;
   -webkit-filter: hue-rotate(90deg);
-  -moz-filter: hue-rotate(90deg);
-  filter: hue-rotate(90deg)
+          filter: hue-rotate(90deg);
 }
 p img[alt="leeebron"]{
   border: none;
   margin-right:21px;
   width:200px;
   float:left;
-  transform: rotateY(0)
+  -webkit-transform: rotateY(0);
+          transform: rotateY(0)
 }
 p img[alt="hackety hack hack hack"]{
   float: left;
@@ -76,13 +80,15 @@ h1, h2, h3, h4, h5{
   margin: 56px 0;
 }
 h1{
-  transform: perspective(333px) rotateX(31deg);
+  -webkit-transform: perspective(333px) rotateX(31deg);
+          transform: perspective(333px) rotateX(31deg);
   font-size: 111px;
   text-shadow: 0 15px 15px rgba(250, 216, 126, 1), 
   0 -5px 15px rgba(250, 216, 126, 1),
   -7px 0 15px rgba(250, 216, 126, 1),
   7px 0 15px rgba(250, 216, 126, 1);
-  -webkit-animation: flameon 6.67s ease-in 0s infinite alternate;    
+  -webkit-animation: flameon 6.67s ease-in 0s infinite alternate;
+          animation: flameon 6.67s ease-in 0s infinite alternate;    
 }
 h2{
   font-size: 55px;
@@ -102,25 +108,52 @@ img{
 }
 
 @-webkit-keyframes flameon {
-  0%{
+  100%{
     text-shadow: 0 15px 15px rgba(240, 30, 30, .37), 
     0 -5px 15px rgba(250, 216, 126, 1),
     -7px 0 15px rgba(250, 216, 126, 1),
     7px 0 15px rgba(250, 166, 126, 1);
   }
-  33%{
+  66%{
     text-shadow: 0 15px 15px rgba(250, 166, 126, 1), 
     0 -5px 15px rgba(240, 30, 30, .67),
     -7px 0 15px rgba(250, 216, 126, 1),
     7px 0 15px rgba(250, 216, 126, 1);
   }
-  66%{
+  33%{
     text-shadow: 0 15px 15px rgba(250, 216, 126, 1), 
     0 -5px 15px rgba(250, 166, 126, 1),
     -7px 0 15px rgba(240, 30, 30, .67),
     7px 0 15px rgba(250, 116, 126, 1);
   }
+  0%{
+    text-shadow: 0 15px 15px rgba(250, 216, 126, 1), 
+    0 -5px 15px rgba(250, 216, 126, 1),
+    -7px 0 15px rgba(250, 166, 126, 1),
+    7px 0 15px rgba(240, 30, 30, ,67);
+  }
+}
+
+@keyframes flameon {
   100%{
+    text-shadow: 0 15px 15px rgba(240, 30, 30, .37), 
+    0 -5px 15px rgba(250, 216, 126, 1),
+    -7px 0 15px rgba(250, 216, 126, 1),
+    7px 0 15px rgba(250, 166, 126, 1);
+  }
+  66%{
+    text-shadow: 0 15px 15px rgba(250, 166, 126, 1), 
+    0 -5px 15px rgba(240, 30, 30, .67),
+    -7px 0 15px rgba(250, 216, 126, 1),
+    7px 0 15px rgba(250, 216, 126, 1);
+  }
+  33%{
+    text-shadow: 0 15px 15px rgba(250, 216, 126, 1), 
+    0 -5px 15px rgba(250, 166, 126, 1),
+    -7px 0 15px rgba(240, 30, 30, .67),
+    7px 0 15px rgba(250, 116, 126, 1);
+  }
+  0%{
     text-shadow: 0 15px 15px rgba(250, 216, 126, 1), 
     0 -5px 15px rgba(250, 216, 126, 1),
     -7px 0 15px rgba(250, 166, 126, 1),
