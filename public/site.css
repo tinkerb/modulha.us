@@ -2,7 +2,7 @@
 
 body{
   width: 100%;
-  background-image:  radial-gradient(50% 50%, rgba(248,249,243,1), rgba(93,93,93,0.47))
+  background-image:  radial-gradient(50% 50%, rgba(248,249,243,1), rgba(123,123,123,0.77))
 }
 
 textarea{
@@ -32,6 +32,32 @@ p img{
   margin-left: 21px;
   margin-bottom: 11px;
   transform: rotateY(180deg)
+}
+p img[alt="iojs"]{
+  border: none;
+  float: none;
+  display: block;
+  clear: both;
+  transform: rotateY(0deg);
+  margin: 0 auto;
+  width: 50%;
+  
+}
+p img[alt="binary"]{
+  border: none;
+  float:right;
+  transform: rotateY(0);
+  width: 200px;
+  -webkit-filter: hue-rotate(90deg);
+  -moz-filter: hue-rotate(90deg);
+  filter: hue-rotate(90deg)
+}
+p img[alt="leeebron"]{
+  border: none;
+  margin-right:21px;
+  width:200px;
+  float:left;
+  transform: rotateY(0)
 }
 p img[alt="hackety hack hack hack"]{
   float: left;

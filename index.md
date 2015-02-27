@@ -4,15 +4,16 @@
 
 Modulhaus is open for business, and accepting contract proposals for web developments!  [Holler](#input)!
 
-If you know what what you want, [input your application requirements](#input), and we will respond appropriately.  To learn more about us, read on, or skip ahead to the [what?](#what-), [who?](/#who-), [why?](/#why-) or [how?](/#how-) sections.
+If you know what you want, [input your application requirements](#input), and we will respond.  To learn more about us, read on, or skip ahead to the [what?](#what-), [who?](/#who-), [why?](/#why-) or [how?](/#how-) sections.
 
+![iojs](iojs.svg)
 ##  What?
 
 Modulhaus offers affordable web development for any project.  Our specialties are interactive websites, networks, tools, and interfaces, but we are known to hack anything from hardware to creative multimedia experiences.  
 
-We use a vast library of modular, open soure code to liberate the design of applications from stiff frameworks, unnecessary management, and expensive, proprietary molds.  Our modular development style is the ultimate in efficiency.  The benefit is yours.
+![binary](binary.png)We use a vast library of modular, open soure code to liberate the design of applications from stiff frameworks, unnecessary management, and expensive, proprietary molds.  Our modular development style is the ultimate in efficiency.  The benefit is yours.
 
-We offer development on any level, from the full stack down to the individual module.  No application is too small, nor too large.
+We offer development on any level, from the full stack down to the individual module.  
 
 
 ## Who?
@@ -37,17 +38,11 @@ Johnny has always been 100% open source.  He was an early and quick adopter of N
 
 In the beginning, he sensed the magic.  Today, his wizardry is on point.
 
-## Why?
-
-Modulhaus was concieved by [@substack](https://twitter.com/substack) and [@johnnyscript](https://twitter.com/johnnyscript) as a means for independent, open source hackers to support their practice.  And to what end?  The end of contracting, recruitment, HR, and other annoying and wasteful practices!  
-
-We believe the benefit will be mutual for coders and clients.
-
 ## How?
 
-Open source software development offers a bounty of benefits.  Code reuse saves time, ergo money, and makes programmers happy.  A world of developers continually fix and improve shared code.  For any given application, the majority of its functionality has already been written for you.  It is on top of this massive, freely available resource that new, innovative applications can be built.
+![leeebron](lebron.png) Open source software development offers a bounty of benefits.  Code reuse saves time, ergo money, and makes programmers happy.  A world of developers continually fix and improve shared code.  For any given application, the majority of its functionality has already been written for you.  It is on top of this massive, freely available resource that new, innovative applications can be built.
 
-Open source development is as much a library science as it is programming.  We have replaced tiring repetition and menial problem solving tasks, with continuing education and personal growth.  The difficulty and expense of maintaining a stable of programmers, each with niche qualifications, has been replaced by a distributed, modular, and endlessly scalable laborforce.  Now at your fingertips.
+We have replaced repetition and menial problem solving tasks, with continuing education and personal growth.  The difficulty and expense of maintaining a stable of programmers, each with niche qualifications, has been replaced by a distributed, modular, and endlessly scalable laborforce.  Now at your fingertips.
 
 We are your entry into this paradigm.  All you need to know is what you want from an application.  No longer does your company, organization or project need to hire and keep developers and managers.  Instead, the right programmer for every piece of your application can be sourced indpendently.
 
@@ -58,6 +53,12 @@ Modulhaus represents a global network of these independent, collaborative, code 
 If you are an OSS developer in the modular style, and want to know more, contact James or Johnny directly via IRC or other channels.  This is for you!
 
 If you are only interested in getting applications built, send us a [work proposal](#input) today!
+
+## Why?
+
+Modulhaus was concieved by [@substack](https://twitter.com/substack) and [@johnnyscript](https://twitter.com/johnnyscript) as a means for independent, open source hackers to support their practice.  And to what end?  The end of contracting, recruitment, HR, and other annoying and wasteful practices!  
+
+We believe the benefit will be mutual for coders and clients.
 
 
 ## Input
