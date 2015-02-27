@@ -32,7 +32,7 @@ James is a true adherent to the Unix Philosophy, and a master of full stack deve
 
 ![!longer an accurate depiction but so what](johnnyscript.jpg)
 
-Johnny Honestly broke into programming through the window.  The browser window. Literally learned CSS first.  Johnny is an artist with a deep love for science and exploration.  He could not help but becoming enmeshed in data, networks, interfaces, and all else.  
+Johnny Honestly broke into programming through the window.  The browser window. Literally learned CSS first.  Johnny is an artist with a deep love for science and exploration.  He could not help becoming enmeshed in data, networks, interfaces, and all else.  
 
 It was epiphanies about the future of the web that inspired Johnny to learn to program.  He got a late start, but he has put it all in, because he sensed the magic.  Today, his wizardry is on point.
 
