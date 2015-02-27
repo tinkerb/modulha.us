@@ -32,11 +32,9 @@ James is a true adherent to the Unix Philosophy, and a master of full stack deve
 
 ![!longer an accurate depiction but so what](johnnyscript.jpg)
 
-Johnny Honestly broke into programming through the window.  The browser window. Literally learned CSS first, if that counts.  Always late to the party, he didn't begin programming until he was 27, living alone in a hovel in Chicago's southside, where he wrote plays and poems, while waited out eviction.  An artist with a deep love for truth, science, and exploration, he could not help but becoming fully enmeshed in data, networks, interfaces, and all else. 
+Johnny Honestly broke into programming through the window.  The browser window. Literally learned CSS first.  Johnny is an artist with a deep love for science and exploration.  He could not help but becoming enmeshed in data, networks, interfaces, and all else.  
 
-Johnny has always been 100% open source.  He was an early and quick adopter of Node.js and the Unix Philosophy of modular software design.  He knows a master style when he observes and practices one.  
-
-In the beginning, he sensed the magic.  Today, his wizardry is on point.
+It was epiphanies about the future of the web that inspired Johnny to learn to program.  He got a late start, but he has put it all in, because he sensed the magic.  Today, his wizardry is on point.
 
 ## How?
 
