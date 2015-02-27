@@ -71,7 +71,7 @@ p, a{
   color: #333
 }
 h1, h2, h3, h4, h5{
-  font-family: 'Orbitron'; 
+  font-family: 'Orbitron', courier; 
   text-align: center;
   margin: 56px 0;
 }
@@ -82,6 +82,7 @@ h1{
   0 -5px 15px rgba(250, 216, 126, 1),
   -7px 0 15px rgba(250, 216, 126, 1),
   7px 0 15px rgba(250, 216, 126, 1);
+  -webkit-animation: flameon 6.67s ease-in 0s infinite alternate;    
 }
 h2{
   font-size: 55px;
@@ -97,4 +98,32 @@ a, a:visited{
 }
 img{
   border: 3px solid rgba(250, 216, 126, 1);
+
+}
+
+@-webkit-keyframes flameon {
+  0%{
+    text-shadow: 0 15px 15px rgba(240, 30, 30, .37), 
+    0 -5px 15px rgba(250, 216, 126, 1),
+    -7px 0 15px rgba(250, 216, 126, 1),
+    7px 0 15px rgba(250, 166, 126, 1);
+  }
+  33%{
+    text-shadow: 0 15px 15px rgba(250, 166, 126, 1), 
+    0 -5px 15px rgba(240, 30, 30, .67),
+    -7px 0 15px rgba(250, 216, 126, 1),
+    7px 0 15px rgba(250, 216, 126, 1);
+  }
+  66%{
+    text-shadow: 0 15px 15px rgba(250, 216, 126, 1), 
+    0 -5px 15px rgba(250, 166, 126, 1),
+    -7px 0 15px rgba(240, 30, 30, .67),
+    7px 0 15px rgba(250, 116, 126, 1);
+  }
+  100%{
+    text-shadow: 0 15px 15px rgba(250, 216, 126, 1), 
+    0 -5px 15px rgba(250, 216, 126, 1),
+    -7px 0 15px rgba(250, 166, 126, 1),
+    7px 0 15px rgba(240, 30, 30, ,67);
+  }
 }
