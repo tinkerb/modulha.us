@@ -2,7 +2,7 @@
 
 ### Open Source + Full Stack Web Development
 
-Modulhaus is open for business, and accepting contract proposals for web developments!  [Holler](#input)!
+Modulhaus is open for business, and accepting contract proposals for web developments.  [Give us your input](#input)!
 
 If you know what you want, [input your application requirements](#input), and we will respond.  To learn more about us, read on, or skip ahead to the [what?](#what-), [who?](/#who-), [why?](/#why-) or [how?](/#how-) sections.
 
