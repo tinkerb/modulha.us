@@ -63,7 +63,7 @@ We believe the benefit will be mutual for coders and clients.
 
 Tell us what you need from an application, modules, CLI tool, dev ops solution, or anything else.  We'll find the right people to write the right parts, and put it all together.
 
-Please don't forget to include some from of contact, and double check your spelling.  Note that there is a 220 character limit.  You should be able to describe what you need in that space.  
+Please don't forget to include some form of contact, and double check your spelling.  Note that there is a 220 character limit.  You should be able to describe what you need in that space.  
 
 <form id="form" action="/contact" method="POST">
   <textarea id="contactForm" rows="11" cols="80" name="contact" placeholder="send help!"></textarea>
