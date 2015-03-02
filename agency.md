@@ -1,6 +1,6 @@
 # Agency
 
-### What is it good for?
+### Who is it good for?
 
 Modulhaus has some ideas about representing creative, open source hackers.  That is because we are trying to solve our own problems.  
 
