@@ -12,6 +12,15 @@
 <p>all content will get inserted into an html template and served in a public directory which mirrors this one.  you can write in markdown, html, plain text, w/e.  Images and stuff I’ll deal with later - johnny</p>
 <p>Use issues to discuss content.  </p>
 </div>
+  <div id="formFooter">
+  <form id="form" action="/contact" method="POST">
+    <textarea id="contactForm" rows="11" cols="80" name="contact" placeholder=""></textarea>
+    <button id="contactButton">submit!</button>
+    <p><span id="chars">0</span> of 220 characters used</p>
+  </form>
+
+  <div style="display:none">
+  </div>
+</body>
     <script type="text/javascript" src="bundle.js"></script>
-  </body>
 </html>

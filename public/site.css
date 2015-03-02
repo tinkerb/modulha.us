@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Orbitron:900|VT323);
 
 body{
+  visibility: hidden;
   width: 100%;
   background-image:  -webkit-radial-gradient(50% 50%, rgba(248,249,243,1), rgba(123,123,123,0.77));
   background-image:  radial-gradient(50% 50%, rgba(248,249,243,1), rgba(123,123,123,0.77))
@@ -22,7 +23,7 @@ textarea{
   margin-right: 0;
 }
 
-#markup{
+#markup, #formFooter{
   padding:7px;
   width:960px;
   margin: 0 auto;
@@ -72,7 +73,8 @@ p img[alt="hackety hack hack hack"]{
 p, a{
   font-family: 'VT323';
   font-size: 32px;
-  color: #333
+  color: #010;
+  line-height: 37px;
 }
 h1, h2, h3, h4, h5{
   font-family: 'Orbitron', courier; 

@@ -46,7 +46,7 @@ We are your entry into this paradigm.  All you need to know is what you want fro
 
 Modulhaus represents a global network of these independent, collaborative, code writers.  These are people who read and research open source code endlessly.  They contribute code back to the stacks.  Collectively, our diversity covers the entire domain of web development.
 
-[James and Johnny](#who-) are system architects, developers, and a nexus to this ecosystem.  It is their intention to Modulhaus into a decentralized system for sourcing and fulfilling contract development.  To that end, we are developing tools to manage this new workflow. 
+[James and Johnny](#who-) are system architects, developers, and a nexus to this ecosystem.  It is their intention to turn Modulhaus into a decentralized system for sourcing and fulfilling contract development.  To that end, we are developing tools to manage this new workflow. 
 
 If you are an OSS developer in the modular style, and want to know more, contact James or Johnny directly via IRC or other channels.  This is for you!
 
@@ -65,13 +65,7 @@ Tell us what you need from an application, modules, CLI tool, dev ops solution, 
 
 Please don't forget to include some form of contact, and double check your spelling.  Note that there is a 220 character limit.  You should be able to describe what you need in that space.  
 
-<form id="form" action="/contact" method="POST">
-  <textarea id="contactForm" rows="11" cols="80" name="contact" placeholder="send help!"></textarea>
-  <button id="contactButton">submit!</button>
-  <p><span id="chars">0</span> of 220 characters used</p>
-</form>
-
-<div style="display:none">
+<div style="display:none;"
 ##  Agency
 
 Indpendent, open source hackers posess their own agency.  We are the code writers.  We grok the complex of modules and APIs.  We follow certain principles which allow us to collaborate and  write interoperative programs, without interoperative project managers, recruiters, and HR buffers.

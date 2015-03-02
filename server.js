@@ -1,8 +1,13 @@
 var http = require('http')
 var body = require('body/form')
+var router = require('router')
 var stat = require('ecstatic')(__dirname + '/public')
-var level = require('level')
-var db = level('./data', {valueEncoding: 'json'})
+var createdb = require('./lib/db')
+
+//var level = require('level')
+var db = createdb('messages')
+
+//level('./data', {valueEncoding: 'json'})
 var through = require('through2')
 var bind = require('tcp-bind')
 var arg = require('minimist')(process.argv)
