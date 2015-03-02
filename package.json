@@ -18,6 +18,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "build" : "modulhauf -o public && git commit -am 'cheating'",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
