@@ -38,6 +38,6 @@ We're all open source.  We are distributed.  We are out in the world making cont
 
 Plus, there is one thing that is undeniable about reprentation:  it is far easier to talk somebody else up than to boast about yourself.  Try it.  
 
-The primary reason for seeking representation in the first place is to have somebody looking out for your interests.  It sure would be nice, wouoldn't  it?  To have that kind of this in pro programming?     
+The primary reason for seeking representation in the first place is to have somebody looking out for your interests.  It sure would be nice, wouoldn't  it?  To have that kind of representation in the tech industry, and beyond it.  
 
 What else?  Give us your input!
