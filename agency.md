@@ -4,9 +4,9 @@
 
 Modulhaus has some ideas about representing creative, open source hackers.  That is because we are trying to solve our own problems.  
 
-Representation may take many forms:  matching sponsors, crowdfund campaigning, contract negotiations, job placement.  We as hackers are open to all kinds of opportunities, depending on our interests.
+Representation may take many forms:  matching sponsors, crowdfund campaigning, teaching or speaking engagements, contract negotiations, and, yes, even job placement.  We are open to all kinds of opportunities. All depends on our interests.
 
-But first, let us clear the air of mass marketing's appropriation of an important concept.  Then we can breathe it in.
+But first, let us clear the air of mass marketing's appropriation of an important concept.  Then we can breathe it in, the conceptual air.
 
 ### "Talent Agency" is an oxymoron.  
 
@@ -37,4 +37,3 @@ We're all open source.  We are distributed.  We are out in the world making cont
 Plus, there is one thing that is undeniable about reprentation:  it is far easier to talk somebody else up than yourself.  It is the primary reason for seeking representation in the first place:  to have somebody else toot your horn.
 
 What else?  Give us your input!
-
