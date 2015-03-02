@@ -24,7 +24,7 @@ When we use the word "agency", we are referring to the thing itself.  At modulha
 
 Agency it's the thing itself.  We put the energy there.  We've already have the power. 
 
-It follows that, in our vernacular, "Agents" are people who possess that agency... not the resellers of it.  We are our own agents.  Equally, as crafters of an open source web, we are each other's.
+It follows that, in our vernacular, "Agents" are people who possess that agency.  We are our own agents.  Equally, as crafters of an open source web, we are each other's.
 
 ## Agent Ideation
 
