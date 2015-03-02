@@ -4,7 +4,7 @@
 
 Modulhaus has some ideas about representing creative, open source hackers.  That is because we are trying to solve our own problems.  
 
-Representation may take many forms:  matching sponsors, crowdfund campaigning, teaching or speaking engagements, contract negotiations, and, yes, even job placement.  We are open to all kinds of opportunities. All depends on our interests.
+Representation may take many forms:  matching sponsors, crowdfund campaigning, teaching or speaking engagements, contract negotiations, and, yes, even job placement.  We are open to all kinds of opportunities. All depends upon our interests.
 
 But first, let us clear the air of mass marketing's appropriation of an important concept.  Then we can breathe it in, the conceptual air.
 
