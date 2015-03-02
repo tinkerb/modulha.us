@@ -12,9 +12,9 @@ But first, let us clear the air of mass marketing's appropriation of an importan
 
 The word "agency" has long been usurped by those business entities which, supposedly, represent talent.  But what they are really doing is owning that talent, hiding it behind a process, and internally atomizing it for bottom line efficiencies.  
 
-The "talent" are often people who are creative, experimental, artistic, and selling their own agency, because they have to, or because the enjoy having money.
+The "talent" are often people who are creative, experimental, artistic, and selling their own agency, because they have to, or because they have their reasons.
 
-Your motives are your own, and that is what should be represented.  We're only here to take the power, and put it back where it belongs.
+Your motives are your own, and that is what should be represented.  We're only here to take the power, and put it back where it belongs.  Selling your agency does not mean you should suffer awful dev practices, stupid office conditions, commutes, naive management, and bosses.  (Angular is both a bad dev practice and a terrible boss.)  
 
 We want things to work differently for hackers like us.  The agency we posess is great.  Our potential is growing, as the web we build grows.  No pseudo-agency can pretend to actually represent it without understanding what we do, and why we do it.  
 
