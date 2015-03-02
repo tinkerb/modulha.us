@@ -22,9 +22,9 @@ We want things to work differently for hackers like us.  The agency we posess is
 
 When we use the word "agency", we are referring to the thing itself.  At modulhaus, agency is all the knowledge and abilities we posess to design and build awesome applications, today, and with what we may well guess about the future.  
 
-Agency it's the thing itself.  We put the energy there.  We've already have the power. 
+Agency: it's the thing itself.  We put the energy there.  We already have the power. 
 
-It follows that, in our vernacular, "Agents" are people who possess that agency.  We are our own agents.  Equally, as crafters of an open source web, we are each other's.
+It follows that, in our vernacular, "Agents" are people who possess that agency.  We can be our own agent, and some times we must.  More potently, though, we can be each other's.
 
 ## Agent Ideation
 
@@ -38,6 +38,6 @@ We're all open source.  We are distributed.  We are out in the world making cont
 
 Plus, there is one thing that is undeniable about reprentation:  it is far easier to talk somebody else up than to boast about yourself.  Try it.  
 
-The primary reason for seeking representation in the first place is to have somebody looking out for your interests.  It sure would be nice, wouoldn't  it?  To have that kind of representation in the tech industry, and beyond it.  
+The primary reason for seeking representation in the first place is to have somebody looking out for your interests.  It sure would be nice, wouldn't  it?  To have that kind of representation in the tech industry, and beyond it.  
 
 What else?  Give us your input!
