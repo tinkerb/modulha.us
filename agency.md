@@ -20,11 +20,13 @@ We want things to work differently for hackers like us.  The agency we posess is
 
 ###  Agent Agent, of the Agency Agency
 
-When we use the word "agency", we are referring to the thing itself.  At modulhaus, agency is all the knowledge and abilities we posess to design and build awesome applications, now and with what we may well guess about the future.  Agency is the thing itself.  We put the energy there.  We've got the power. 
+When we use the word "agency", we are referring to the thing itself.  At modulhaus, agency is all the knowledge and abilities we posess to design and build awesome applications, today, and with what we may well guess about the future.  
 
-Therefore, in our vernacular, "Agents" are people who possess that agency... not the resellers of it.  We are our own agents.  And as crafters of an open source web, we might could be each other's.  
+Agency is the thing itself.  We put the energy there.  We've got the power. 
 
-## Ideate
+Thus it follows, in our vernacular, that "Agents" are people who possess that agency... not the resellers of it.  We are our own agents.  And as crafters of an open source web, only we can represente each other.
+
+## Agent Ideation
 
 How can we make this work for each other?  We encourage your input. We have some of our own for your consideration.  Call them guiding principles.  
 
@@ -32,8 +34,10 @@ Rerpesentation must always be of the hacker's interests.  This applies no matter
 
 Representation must never be expoitative.  This is exactly the case with recruiters, who pit talent against companies, for their profit is in that margin.
 
-We're all open source.  We are distributed.  We are out in the world making contact with future shit.  Might agents represent each other, when opportunities arise?  If we are actively looking out for the interest of our own, representing others a la mode The Golden Rule,  we create a currency that belongs to us.  As the currency grows, so does the reach and power of open source agency.
+We're all open source.  We are distributed.  We are out in the world making contact with future shit.  Might agents represent each other, when opportunities arise?  If we are actively looking out for the interest of our own, representing others, a la mode The Golden Rule,  we create a currency that belongs to us.  As the currency grows, so does the reach and power of open source agency. Or should that be vice-versa?
 
-Plus, there is one thing that is undeniable about reprentation:  it is far easier to talk somebody else up than yourself.  It is the primary reason for seeking representation in the first place:  to have somebody else toot your horn.
+Plus, there is one thing that is undeniable about reprentation:  it is far easier to talk somebody else up than to boast about yourself.  Try it.  
+
+The primary reason for seeking representation in the first place is to have somebody looking out for your interests.  It sure would be nice, wouoldn't  it?  To have that kind of this in pro programming?     
 
 What else?  Give us your input!
