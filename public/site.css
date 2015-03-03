@@ -4,7 +4,12 @@ body{
   visibility: hidden;
   width: 100%;
   background-image:  -webkit-radial-gradient(50% 50%, rgba(248,249,243,1), rgba(123,123,123,0.77));
-  background-image:  radial-gradient(50% 50%, rgba(248,249,243,1), rgba(123,123,123,0.77))
+  background-image:  radial-gradient(50% 50%, rgba(248,249,243,1), rgba(123,123,123,0.77));
+  padding-bottom: 99px;
+  background-position: 0px 0px center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 textarea{
