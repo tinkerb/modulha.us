@@ -9,8 +9,6 @@ var url = require('url')
 
 var createdb = require('./lib/db')
 var db = createdb('messages')
-var subdomani = {}
-subdomani.daylabor = require('../daylabor')(createdb)
 var site = arg.h
 
 //bind(arg.p)
