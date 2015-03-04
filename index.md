@@ -18,7 +18,7 @@ We offer development on any level, from the full stack down to the individual mo
 
 ## Who?
 
-Friends, former housemates and current HAUSmates, James and Johnny are a left and right brain that met in the middle.  Creative, technical, and inspired, they advance art and mad science from opposite approaches.  Modulhaus is a product of their plotting.
+Agents James and Johnny are a left and right brain that met in the middle-east of Oakland.  Creative, technical, and inspired, they advance art and mad science from opposite approaches.  Modulhaus is a product of their plotting.
 
 ### James Halliday
 

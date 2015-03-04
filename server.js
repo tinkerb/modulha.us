@@ -2,15 +2,16 @@ var http = require('http')
 var body = require('body/form')
 var router = require('router')
 var stat = require('ecstatic')(__dirname + '/public')
-var createdb = require('./lib/db')
-
-//var level = require('level')
-var db = createdb('messages')
-
-//level('./data', {valueEncoding: 'json'})
 var through = require('through2')
 var bind = require('tcp-bind')
 var arg = require('minimist')(process.argv)
+var url = require('url')
+
+var createdb = require('./lib/db')
+var db = createdb('messages')
+var subdomani = {}
+subdomani.daylabor = require('../daylabor')(createdb)
+var site = arg.h
 
 //bind(arg.p)
 //process.setgid(arg.g)
@@ -18,7 +19,13 @@ var arg = require('minimist')(process.argv)
 
 
 var server = http.createServer(function(req, res){
-  if(req.method == 'POST' && req.url == '/contact'){
+  var host = req.headers.host
+  if(/^www/.test(host)){
+    res.writeHead(302, {'Location' : 'http://'+host.replace(/^www\./, '')})
+    res.end()
+    return
+  }
+  else if(req.method == 'POST' && req.url == '/contact'){
     body(req, res, function(err, body){
       if(err) console.log(err)
       else{
