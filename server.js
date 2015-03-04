@@ -16,7 +16,7 @@ var site = arg.h
 //process.setuid(arg.u)
 
 
-var server = http.createServer(function(req, res){
+var server = http.createServer(function(req, res, bounce){
   var host = req.headers.host
   if(/^www/.test(host)){
     res.writeHead(302, {'Location' : 'http://'+host.replace(/^www\./, '')})
