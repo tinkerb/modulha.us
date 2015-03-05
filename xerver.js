@@ -32,7 +32,7 @@ var server = http.createServer(function(req, res, bounce){
           'messages!' + now,
            JSON.stringify(body.contact)
         )
-        res.end('Thank you for contacting us.  Your message read:\n\n' + body.contact)
+        res.end('Thank you for contacting us.  Your message read:\n\n' + body.contact + '<a href="/">Home</a>')
       }
     })    
   }
