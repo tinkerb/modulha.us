@@ -52,7 +52,7 @@ var server = http.createServer(function(req, res, bounce){
             }
           )).pipe(res)
         }
-        else res.writeHead(304, {'Location':'/messages'})
+        else res.writeHead(307, {'Location':'/messages'})
       })
     }
     else stat(req, res)
