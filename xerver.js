@@ -47,7 +47,7 @@ var server = http.createServer(function(req, res, bounce){
           })
           r.pipe(through.obj(
             function(row, enc, next){
-              this.push(JSON.parse(row.value) + '\n')
+              this.push(JSON.parse(row.value) + '\r\n')
               next()
             }
           )).pipe(res)
