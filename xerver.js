@@ -13,7 +13,7 @@ var site = arg.h
 
 var fd = bind(arg.p)
 process.setgid(arg.g)
-//process.setuid(arg.u)
+process.setuid(arg.u)
 
 
 var server = http.createServer(function(req, res, bounce){
