@@ -61,9 +61,11 @@ We believe the benefit will be mutual for coders and clients.
 
 ## Input
 
-Tell us what you need from an application, modules, CLI tool, dev ops solution, or anything else.  We'll find the right people to write the right parts, and put it all together.
+Tell us what you need from a service, application, module, CLI tool, operation, or general solution.  If you want a replt, include some form of contact.
 
-Please don't forget to include some form of contact, and double check your spelling.  Note that there is a 220 character limit.  You should be able to describe what you need in that space.  
+Hackers, gives us your thoughts, express your feelings, and reserve your doubts.  Join #modulhaus on IRC via freenode.  
+
+Follow [@modulhaus](https://twitter.com/modulhaus3000).
 
 <div style="display:none;"
 ##  Agency
