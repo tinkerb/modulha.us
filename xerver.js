@@ -30,9 +30,12 @@ var server = http.createServer(function(req, res, bounce){
         var now = new Date().toISOString()
         db.put(
           'messages!' + now,
-           JSON.stringify(body.contact)
+           JSON.stringify(body.contact),
+           function(e,r){
+            res.writeHead(303, {'Location': req.headers.referer})
+            res.end()
+           }
         )
-        res.writeHead(307, {'Location':'/'})
       }
     })    
   }
