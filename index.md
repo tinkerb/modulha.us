@@ -61,7 +61,7 @@ We believe the benefit will be mutual for coders and clients.
 
 ## Input
 
-Tell us what you need from a service, application, module, CLI tool, operation, or general solution.  If you want a replt, include some form of contact.
+Tell us what you need from a service, application, module, CLI tool, operation, or general solution.  If you want a reply, include some form of contact.
 
 Hackers, gives us your thoughts, express your feelings, and reserve your doubts.  Join #modulhaus on IRC via freenode.  
 
