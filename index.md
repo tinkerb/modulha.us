@@ -26,7 +26,7 @@ Agents James and Johnny are a left and right brain that met in the middle-east o
 
 James is well known as a prolific author of open source applications, and international ambassador for all programs modular, open source, and javascript.  He is an inspiration to his peers and proteges.  
 
-James is a true adherent to the Unix Philosophy, and a master of full stack development.  With hundreds of modules and repositories, his efforts in open source module writing and collaboration set the standard.  His modules and open source projects are used by hundreds of companies large and small, and are downloaded millions of times every week. 
+James is a true adherent to the Unix Philosophy and a master of full stack development.  With hundreds of modules and repositories, his efforts in open source module writing and collaboration set the standard.  His modules and open source projects are used by hundreds of companies large and small, and are downloaded millions of times every week. 
 
 ###  Johnny Honestly
 
@@ -40,11 +40,11 @@ It was epiphanies about the future of the web that inspired Johnny to learn to p
 
 ![leeebron](lebron.png) Open source software development offers a bounty of benefits.  Code reuse saves time, ergo money, and makes programmers happy.  A world of developers continually fix and improve shared code.  For any given application, the majority of its functionality has already been written for you.  It is on top of this massive, freely available resource that new, innovative applications can be built.
 
-We have replaced repetition and menial problem solving tasks, with continuing education and personal growth.  The difficulty and expense of maintaining a stable of programmers, each with niche qualifications, has been replaced by a distributed, modular, and endlessly scalable laborforce.  Now at your fingertips.
+We have replaced repetition and menial problem-solving tasks with continuing education and personal growth.  The difficulty and expense of maintaining a stable of programmers, each with niche qualifications, has been replaced by a distributed, modular, and scalable laborforce.  
 
-We are your entry into this paradigm.  All you need to know is what you want from an application.  No longer does your company, organization or project need to hire and keep developers and managers.  Instead, the right programmer for every piece of your application can be sourced indpendently.
+We are your entry into this paradigm.  All you need to know is what you want from an application.  No longer does your company, organization or project need to hire and keep developers and managers.  Instead, the right programmer for every piece of your application can be sourced independently.
 
-Modulhaus represents a global network of these independent, collaborative, code writers.  These are people who read and research open source code endlessly.  They contribute code back to the stacks.  Collectively, our diversity covers the entire domain of web development.
+Modulhaus represents a global network of these independent, collaborative code writers.  These are people who read and research open source code endlessly.  They contribute code back to the stacks.  Collectively, our diversity covers the entire domain of web development.
 
 [James and Johnny](#who-) are system architects, developers, and a nexus to this ecosystem.  It is their intention to turn Modulhaus into a decentralized system for sourcing and fulfilling contract development.  To that end, we are developing tools to manage this new workflow. 
 
@@ -54,10 +54,9 @@ If you are only interested in getting applications built, send us a [work propos
 
 ## Why?
 
-Modulhaus was concieved by [@substack](https://twitter.com/substack) and [@johnnyscript](https://twitter.com/johnnyscript) as a means for independent, open source hackers to support their practice.  And to what end?  The end of contracting, recruitment, HR, and other annoying and wasteful practices!  
+Modulhaus was conceived by [@substack](https://twitter.com/substack) and [@johnnyscript](https://twitter.com/johnnyscript) as a means for independent, open source hackers to support their practice.  And to what end?  The end of contracting, recruitment, HR, and other annoying and wasteful practices!  
 
 We believe the benefit will be mutual for coders and clients.
-
 
 ## Input
 
@@ -70,7 +69,7 @@ Follow [@modulhaus](https://twitter.com/modulhaus3000).
 <div style="display:none;"
 ##  Agency
 
-Indpendent, open source hackers posess their own agency.  We are the code writers.  We grok the complex of modules and APIs.  We follow certain principles which allow us to collaborate and  write interoperative programs, without interoperative project managers, recruiters, and HR buffers.
+Independent, open source hackers possess their own agency.  We are the code writers.  We grok the complex of modules and APIs.  We follow certain principles which allow us to collaborate and  write interoperative programs, without interoperative project managers, recruiters, and HR buffers.
 
 We are the agents.  We are agents for ourselves, and for each other.  
 
